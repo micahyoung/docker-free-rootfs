@@ -1,4 +1,5 @@
 alpine-baselayout
 alpine-keys
 apk-tools
+curl
 libc-utils
